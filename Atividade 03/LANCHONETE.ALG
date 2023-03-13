@@ -27,31 +27,26 @@ Inicio
 
     se codigo = 100 entao
         total <- 15 * quantidade
-        lanche <- Cachorro-quente
     fimse
 
     se codigo =  101 entao
         total <- 10 * quantidade
-        lanche <- Bauru simples
     fimse
 
     se codigo = 102 entao
         total <- 12 * quantidade
-        lanche <- Bauru com ovo
     fimse
 
     se codigo = 103 entao
         total <- 15 * quantidade
-        lanche <- Hamúrguer
     fimse
 
     se codigo = 104 entao
         total <- 16 * quantidade
-        lanche <- Cheeseburguer
     fimse
 
     // saida de dados
 
-    escreval("O seu pedido de ", quantidade , lanche, " ficou um total de R$", total:2:2)
+    escreval("O seu pedido ficou um total de R$", total:2:2)
             
 Fimalgoritmo
