@@ -1,8 +1,8 @@
 Algoritmo "LANCHONETE"
 
-3-  O cardápio de uma lanchonete é o seguinte:
+//3-  O cardápio de uma lanchonete é o seguinte:
 
-Escreva um algoritmo que leia o nome do cliente, o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
+//Escreva um algoritmo que leia o nome do cliente, o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
 
 Var
 codigo, quantidade: inteiro
